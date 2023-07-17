@@ -1,0 +1,48 @@
+.container1{
+    width: 1400px;
+    margin: auto;
+    text-align: center;
+}
+
+/*naslovi fontovi paragrafi .... */
+
+.h1-main{
+    font-family:'Open Sans', sans-serif;
+    color: #23323e;
+    font-size: 110px;
+    font-weight: 700;
+    margin-top: 20px;
+    margin-bottom: 100px;
+}
+
+.h2-main{
+    font-family:"Lato", sans-serif;
+    color: #23323e;
+    font-weight: 600;
+    font-size: 48px;
+    height: 48px;
+}
+
+.p-main{
+
+    font-size: 28px;
+}
+
+.a-link{
+
+    font-size: 25px;
+}
+
+/* sekcije */
+
+.navbar-boja{
+    background-color: rgba(221, 221, 221, 0.1);
+}
+
+#hero-section{
+    height: 100vh;
+    background: rgb(235,235,235);
+    background: radial-gradient(circle at top right,  rgba(120,198,183,1) 50% ,rgba(235,235,235,1) 50%);
+    
+}
+
