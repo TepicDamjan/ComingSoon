@@ -1,7 +1,9 @@
 /**
 	miscs
 **/
-
+body {
+	margine:0;
+}
 #hero{
 
     height: 100vh;
